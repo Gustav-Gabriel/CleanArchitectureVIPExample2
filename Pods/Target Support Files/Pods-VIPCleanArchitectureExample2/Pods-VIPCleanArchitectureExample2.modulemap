@@ -1,0 +1,6 @@
+framework module Pods_VIPCleanArchitectureExample2 {
+  umbrella header "Pods-VIPCleanArchitectureExample2-umbrella.h"
+
+  export *
+  module * { export * }
+}
